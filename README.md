@@ -3,7 +3,9 @@ Multi-threaded C++ terminal-based elevator controller (object-oriented C++)
 
 Developed and designed by Arnold Yeung
 
-All code written by Arnold Yeung
+All code written by Arnold Yeung, with the exception of:
+  - rt.cpp
+  - rt.h
 
 To run software, start Release/elevator_simulator.exe
 
